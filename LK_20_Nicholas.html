@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+    <title>Menentkan luas lingkaran</title>
+</head>
+<body>
+    <b>Jari-jari</b><input type="text" id="jarijari"><br>
+    <button type="button" onclick="hitungLuas()">Hitung luas lingkaran</button>
+    <h2>Hasil Volume</h2>
+    <p id="hasildisini"></p>
+    <script>
+        function hitungLuas(){
+            jarijari = document.getElementById("jarijari").value;
+            let hasilvolume = 4/3 * (eval(jarijari)*eval(jarijari)*eval(jarijari)) * 22/7;
+            document.getElementById("hasildisini").innerHTML = hasilvolume;
+        }
+    </script>
+</body>
+</html>
