@@ -17,4 +17,8 @@ Akses Direktory
 2.5. cari ada xampp
 3. ketik cd xampp
 3.5. cari htdocs
-
+4. ketik cd htdocs
+5. Buat file mkdir tik-php-nama
+6. cek foldernya di dir
+7. ketik cd Nama file
+8. ketik code .
