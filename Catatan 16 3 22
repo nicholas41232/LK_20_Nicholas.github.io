@@ -1,0 +1,20 @@
+Cara mengetahui IP Address
+1. buka CMD
+2. ketik ipconfig
+
+Cara Memulai Server
+1. buka xampp
+2. start Apche
+3. start MySql
+
+Cara listen server dengan traceroute
+1. Pada CMD ping <ip_address> -t
+2. tekan Ctrl + C
+
+Akses Direktory
+1. Ketik cd C://
+2. tekan dir
+2.5. cari ada xampp
+3. ketik cd xampp
+3.5. cari htdocs
+
